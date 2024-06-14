@@ -1,3 +1,13 @@
+
 div {
-  align:center;
+	text-align:center;
+}
+.link {
+	border: 5px solid black;
+	padding:5px;
+	margin: 5px;
+}
+
+.link:hover{
+	background-color: cyan;
 }
